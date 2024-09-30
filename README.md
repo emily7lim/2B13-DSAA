@@ -1,2 +1,2 @@
 # 2B13-DSAA
-Done in Oct 2020 - Mar 2021
+Coursework done in Singapore Polytechnic Year 2 Sem 2
